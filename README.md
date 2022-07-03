@@ -22,4 +22,4 @@ Page Utama
 
 ![detail_page](https://user-images.githubusercontent.com/33770553/177053029-c31b24aa-0657-47b5-a29e-e546f8a0f075.png)
 
-Detail Page
+[Detail Page](https://github.com/justnaf/uas_repo_mobile/blob/main/lib/detail_page.dart)
