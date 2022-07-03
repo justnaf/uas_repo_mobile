@@ -2,15 +2,24 @@
 
 A new Flutter project.
 
-## Getting Started
+## Tampilan Dari Aplikasi Yang Dibuat
 
-This project is a starting point for a Flutter application.
+![welcome_page](https://user-images.githubusercontent.com/33770553/177053015-fa1a38dc-2cd9-4309-86e7-22319f580abd.png)
 
-A few resources to get you started if this is your first Flutter project:
+Welome Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![register_page](https://user-images.githubusercontent.com/33770553/177053019-0f9af1a1-1235-4140-a4ef-f6089220ae7b.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Register Page
+
+![login_page](https://user-images.githubusercontent.com/33770553/177053024-e47b1e36-0e10-4ea6-ac0f-057cd181ef63.png)
+
+Login Page
+
+![page_utama](https://user-images.githubusercontent.com/33770553/177053026-a071a390-1fbd-4194-aa47-3bad55876c17.png)
+
+Page Utama
+
+![detail_page](https://user-images.githubusercontent.com/33770553/177053029-c31b24aa-0657-47b5-a29e-e546f8a0f075.png)
+
+Detail Page
