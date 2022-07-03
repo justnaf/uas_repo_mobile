@@ -1,6 +1,6 @@
 # uas_aplication
 
-A new Flutter project.
+Projek Flutter yang dikerjakan untuk menyelesaikan tugas UAS Mobile Programming
 
 ## Tampilan Dari Aplikasi Yang Dibuat
 
